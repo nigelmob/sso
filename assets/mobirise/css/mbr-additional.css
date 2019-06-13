@@ -47,10 +47,10 @@ body {
 }
 .display-5 {
   font-family: 'Merriweather', serif;
-  font-size: 1.125rem;
+  font-size: 1.75rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 1.125rem;
+  font-size: 1.75rem;
 }
 .display-7 {
   font-family: 'Open Sans', sans-serif;
@@ -81,9 +81,9 @@ body {
     line-height: calc( 1.4 * (0.95625rem + (0.875 - 0.95625) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 0.9rem;
-    font-size: calc( 1.04375rem + (1.125 - 1.04375) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.04375rem + (1.125 - 1.04375) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.4rem;
+    font-size: calc( 1.2625rem + (1.75 - 1.2625) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.2625rem + (1.75 - 1.2625) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
