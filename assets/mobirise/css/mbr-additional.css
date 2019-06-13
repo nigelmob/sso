@@ -843,8 +843,8 @@ body {
   background-image: url("../../../assets/images/sso9-1.png");
 }
 .cid-rtdJS6JEBc {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 75px;
   background-image: url("../../../assets/images/logo.png");
 }
 .cid-rtdJS6JEBc .container-fluid {
@@ -1091,6 +1091,19 @@ body {
 }
 .cid-rtdHyu1GF4 .rev i {
   color: #0a1c44;
+}
+.cid-rtjVjXdG6l {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rtjVjXdG6l .mbr-text,
+.cid-rtjVjXdG6l blockquote {
+  color: #767676;
+}
+.cid-rtjVjXdG6l .mbr-text {
+  text-align: center;
+  color: #4f5b77;
 }
 .cid-rtdhAenVvh {
   padding-top: 30px;
